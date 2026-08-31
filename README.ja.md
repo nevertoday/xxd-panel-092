@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 092
+# 🦁 XXD Panel 092｜表現的線描手帳
 
 ### 自由輪郭と幾何排線で写真の白黒張力を再構成
 

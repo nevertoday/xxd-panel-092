@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 092
+# 🦁 XXD Panel 092｜표현적 선묘 저널
 
 ### 자유 윤곽과 기하 해칭으로 사진의 흑백 긴장을 재구성합니다
 

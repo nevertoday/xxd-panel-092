@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 092
+# 🦁 XXD Panel 092｜Expressive Line Drawing Journal
 
 ### Recompose the photograph through loose contours, geometric hatching, and negative space
 

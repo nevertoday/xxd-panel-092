@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 092
+# 🦁 XXD Panel 092｜表现线描志
 
 ### 用自由轮廓与几何排线，重组照片的黑白张力
 
