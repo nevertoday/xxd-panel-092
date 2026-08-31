@@ -14,29 +14,36 @@
 
 </div>
 
-## Samples
-Verified samples (English intelligent copy):
+## Sample gallery
+
+**16:9 landscape left–right samples**
 
 | sample-05 | sample-06 |
 |---|---|
 | ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
 | ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
 
+**3:4 portrait top–bottom samples**
 
-Sample positions are reserved. Verifiable original works or extensions reviewed directly against the Panel 092 source brief will be shown here first; images from another numbered Panel and broken placeholders are never substituted.
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 092 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
 
-A tracing filter merely copies edges, while an over-finished realist drawing loses the discipline of stopping and leaving space.
+A clean vector line erases gesture, while realist tracing overwhelms negative space and composition; Panel 092 reorganises the photograph's graphic relationships through loose contours and several kinds of hatching after deliberate reduction.
 
-**Panel 092** preserves identity with accurate contours, then builds light, volume, and material using one blue pencil or ballpoint hue, directional hatching, cross-hatching, searching lines, pressure changes, and dry grain. Key areas become specific while the rest intentionally remains unfinished.
+**Panel 092** preserves identity through loose yet accurate contour line drawing, then uses diagonal hatching, cross-hatching, and scribble hatching to shape shadows and structural turns. Free curves describe people, animals, plants, and objects; grouped diagonals and linear geometry organise tabletops, walls, floors, furniture, and shadow directions, holding looseness in tension with a stable framework.
 
 ### Best for
 
-- preserving identity while deleting background information that is not needed for the scene's meaning;
-- dry blue-pencil or ballpoint grain, pressure marks, visible stroke direction, and searching lines;
-- a disciplined “stop when enough has been observed” balance of concentrated marks and broad paper space;
+- strong black-and-white graphic impact, with dense hatched masses and broad negative shapes establishing hierarchy;
+- a sense of observed speed and gesture, retaining quick, free, slightly rough lines, repeated corrections, and uneven density;
+- tension between looseness and order, with free contours carrying organic subjects and geometric hatching stabilising the environment and composition;
 - top-bottom, left-right, design-only, multi-ratio, wallpaper, and directory-batch delivery.
 
 ### Quick start
@@ -58,25 +65,25 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 
 | What you need to know | What this style gives you |
 |---|---|
-| **What you get** | A monochrome-blue narrative drawing with the restraint of an independent travel sketchbook or cultural magazine |
-| **Recognisable signature** | Blue contour, directional hatching, cross-hatching, searching lines, selective detail, and broad natural paper |
-| **How it respects the source** | Identity, pose, and narrative remain recognisable while unnecessary elements are actively omitted without tracing filters |
+| **What you get** | An expressive pen-and-ink illustration combining observed speed, strong black-and-white graphics, and editorial composition |
+| **Recognisable signature** | Loose contours, diagonal hatching, cross-hatching, scribble hatching, dark masses, and broad negative shapes |
+| **How it respects the source** | It retains key identity and scene logic, actively simplifies complex backgrounds, then reorganises position, density, and rhythm |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
 
 ## Transformation logic
 
 ```text
-analyse subject, contour, pose, and narrative relation → retain only identity- and meaning-bearing clues → define form with accurate contour → choose one cobalt, pen blue, ultramarine, or indigo hue → weave value, volume, and material through directional and cross-hatching → selectively resolve key areas → let marks diminish into natural white paper → add sparse quiet editorial type
+analyse subject, contour, structure, pose, and narrative relationships → retain only essential identity and scene logic → establish form with loose yet accurate contour lines → organise shadows and structural turns with diagonal, cross, and scribble hatching → use free curves for organic subjects and geometric hatching for the environmental framework → contrast dark density masses with broad negative shapes → add a small amount of restrained editorial text
 ```
 
 ## Recognisable finished traits
 
-- Use exactly one blue illustration hue; tonal range comes from line weight, pressure, overlap count, and density, never a second colour.
-- Build darks through layered hatching and local cross-hatching, not solid fill or soft gradients.
-- Resolve hair, architecture, object turns, plants, or other identity-bearing areas and simplify everything else.
-- Keep typography small, quiet, bookish, widely spaced, and integrated into the negative space.
-- Avoid watercolour, colour fills, charcoal masses, blurred gradients, tracing filters, heavy black outlines, smooth vectors, technical drafting, cartoons, anime, and 3D.
+- Black, grey, and paper white dominate; a very small amount of low-saturation accent colour is allowed, but pen-and-ink linework and black-white density remain central.
+- Diagonal hatching, cross-hatching, and scribble hatching build shadows and structural turns, with density allowed to remain uneven.
+- Complex backgrounds retain only necessary tabletops, ground planes, boundaries, or spatial cues, letting blank space and hatching rhythm breathe together.
+- Typography stays small, light, and restrained, distributed naturally along blank areas, boundaries, or linear structures rather than forming a title bar or menu.
+- Avoid realistic illustration, thick black comic outlines, clean vector lines, cartoon styling, excessive detail, computer-filter effects, and templated-poster aesthetics.
 
 All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-092-prompt.en.md)
 
