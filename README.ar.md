@@ -1,5 +1,3 @@
-<p align="center"><img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 092" width="1200"></p>
-
 <div align="center">
 
 # 🦁 XXD Panel 092｜دفتر الرسم الخطي التعبيري
