@@ -47,6 +47,15 @@ A clean vector line erases gesture, while realist tracing overwhelms negative sp
 
 <!-- xxd-human-intro:end -->
 
+## Usage tips
+
+- **Start with one clear photo:** choose a source whose subject, action, and relationships are easy to recognize before choosing the delivery format.
+- **Join the parameters in one sentence:** say “top-bottom / left-right / design-only + 16:9 / 3:4 / phone wallpaper”; you can also name desktop, tablet, or smartwatch sizes.
+- **State what must stay:** identify the people, objects, actions, relationships, and copy to preserve, while leaving room for the style to design the layout.
+- **Choose a text mode:** let the model write from the image, lock exact wording with `--text exact --copy`, or remove text completely with `--text none`.
+- **Clarify reality and design regions:** for top-bottom or left-right, say which region keeps the photograph and which region is redesigned; for design-only and wallpapers, say that the whole canvas is redesigned.
+- **Test one image before batching:** confirm mode, ratio, text, and language on one source, then reuse the settings for a folder; change one variable per iteration.
+
 ## Original prompt · Five languages
 
 [简体中文](references/original-prompt/zh-CN.md) · [English](references/original-prompt/en.md) · [日本語](references/original-prompt/ja.md) · [한국어](references/original-prompt/ko.md) · [العربية](references/original-prompt/ar.md)
@@ -65,22 +74,6 @@ The Chinese file preserves the user's wording verbatim and is the sole runtime c
 | **How it respects the source** | It retains key identity and scene logic, actively simplifies complex backgrounds, then reorganises position, density, and rhythm |
 | **Where it works** | Art posters, covers, social content, design-only art, multiple ratios, and four-device wallpaper sets |
 <!-- xxd-panel-benefit:end -->
-
-## Transformation logic
-
-```text
-analyse subject, contour, structure, pose, and narrative relationships → retain only essential identity and scene logic → establish form with loose yet accurate contour lines → organise shadows and structural turns with diagonal, cross, and scribble hatching → use free curves for organic subjects and geometric hatching for the environmental framework → contrast dark density masses with broad negative shapes → add a small amount of restrained editorial text
-```
-
-## Recognisable finished traits
-
-- Black, grey, and paper white dominate; a very small amount of low-saturation accent colour is allowed, but pen-and-ink linework and black-white density remain central.
-- Diagonal hatching, cross-hatching, and scribble hatching build shadows and structural turns, with density allowed to remain uneven.
-- Complex backgrounds retain only necessary tabletops, ground planes, boundaries, or spatial cues, letting blank space and hatching rhythm breathe together.
-- Typography stays small, light, and restrained, distributed naturally along blank areas, boundaries, or linear structures rather than forming a title bar or menu.
-- Avoid realistic illustration, thick black comic outlines, clean vector lines, cartoon styling, excessive detail, computer-filter effects, and templated-poster aesthetics.
-
-All aesthetic constraints live only in the [canonical prompt](references/original-prompt/zh-CN.md). The Skill and runtime adapters resolve delivery variables. [Skill workflow](SKILL.md) · [English runtime adapter](references/xxd-panel-092-prompt.en.md)
 
 <details>
 <summary><strong>Full capabilities and parameters (open when needed)</strong></summary>
