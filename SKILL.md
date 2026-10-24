@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-092
-description: "Create XXD Panel 092 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-092 or requests the exact Panel 092 style."
+description: "XXD Panel 092｜Expressive Line Drawing Journal: redraws the key subject, outline, pose and story of a photo as an expressive pen-and-ink illustration — loose, quick contour lines with small repeated corrections, diagonal, cross- and scribble hatching for shadows and turns of form, freehand curves for people, animals and plants set against grouped straight hatching for tables, walls and floors, mostly black, grey and paper white on warm off-white paper, large negative space and a few small, quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-092 or asks for loose pen-and-ink, hatching, sketchbook-style black-and-white line drawing from a photo."
 ---
 
 # XXD Panel 092

@@ -1,7 +1,7 @@
 interface:
   display_name: "/xxd-panel-092"
-  short_description: "Create Panel 092 from images or a directory batch."
-  default_prompt: "Use $xxd-panel-092; accept one image or an image directory, keep the body of its bundled original style brief as the sole aesthetic authority, resolve shared batch settings once, isolate every source, send exactly one mode-specific delivery contract per asset, keep one flat task directory, make design-only and wallpaper outputs fully transformed, and ground factual-looking copy in supplied or verified facts."
+  short_description: "表现线描志：把照片画成松散轮廓加斜线、交叉线排线的黑白钢笔线描"
+  default_prompt: "Use $xxd-panel-092 to turn my photo into Expressive Line Drawing Journal artwork."
 
 policy:
   allow_implicit_invocation: true

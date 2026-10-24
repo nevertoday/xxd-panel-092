@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 092｜Expressive Line Drawing Journal: redraws the key subject, outline, pose and story of a photo as an expressive pen-and-ink illustration — loose, quick contour lines with small repeated corrections, diagonal, cross- and scribble hatching for shadows and turns of form, freehand curves for people, animals and plants set against grouped straight hatching for tables, walls and floors, mostly black, grey and paper white on warm off-white paper, large negative space and a few small, quiet words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-092 or asks for loose pen-and-ink, hatching, sketchbook-style black-and-white line drawing from a photo.",
+  "short_description": "表现线描志：把照片画成松散轮廓加斜线、交叉线排线的黑白钢笔线描",
+  "zh-CN": {
+    "name": "表现线描志",
+    "tagline": "把照片画成松散轮廓、多种排线和大片留白的黑白钢笔线描。",
+    "look": "照片里最好认的主体会用快速、略带潦草的钢笔轮廓重新画出来，线条有重复修正，暗部和转折处用斜线、交叉线和乱线排出深浅。人物、动物、植物的轮廓松弛带弧度，桌面、墙面、地面则用成组的直排线撑起骨架。画面以黑、灰和米白纸色为主，背景大幅删减，留出大片空白，主体不一定居中。只配几行小而轻的标题或注释，语种不限。",
+    "traits": ["自由轮廓", "斜向排线", "交叉排线", "潦草排线", "黑灰纸白", "负形构图"],
+    "good": [
+      "主体轮廓清楚、明暗关系分明的照片：一个人的侧影、一只趴着的狗、一盆植物、桌上的茶壶",
+      "有桌面、墙角、地面或家具这类结构线的室内场景：窗边的椅子、工作台、咖啡馆一角",
+      "想做成速写本风格的书封、文章插图或黑白艺术海报的照片"
+    ],
+    "poor": [
+      "主要靠颜色好看的照片：花海、彩色灯光、晚霞，画出来几乎只剩黑白",
+      "需要精确还原的图：产品图、证件照、带大量文字的招牌",
+      "想要整洁矢量线、粗黑漫画线或卡通效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Expressive Line Drawing Journal",
+    "tagline": "Turns a photo into a black-and-white pen drawing of loose contours, layered hatching and open paper.",
+    "look": "The most recognisable subject is redrawn in quick, slightly scribbled pen contours with small repeated corrections, while shadows and turns of form are built up with diagonal, cross- and scribble hatching. People, animals and plants get loose, curving outlines; tables, walls and floors are held in place by groups of straight hatching. The palette is black, grey and off-white paper, the background is heavily cut back to leave wide empty space, and the subject need not sit in the centre. Only a few small, light titles or notes appear, in any language.",
+    "traits": ["Loose contours", "Diagonal hatching", "Cross-hatching", "Scribble hatching", "Black, grey, paper", "Negative space"],
+    "good": [
+      "Photos with a clear outline and strong light and shade: a person in profile, a dog lying down, a potted plant, a teapot on a table",
+      "Interiors with structural lines such as tabletops, wall corners, floors or furniture: a chair by a window, a workbench, a corner of a café",
+      "Photos you want as a sketchbook-style book cover, article illustration or black-and-white art poster"
+    ],
+    "poor": [
+      "Photos whose appeal is mostly colour, such as flower fields, coloured lights or sunsets; little of it survives in black and white",
+      "Images that need exact detail: product shots, ID photos, signs full of text",
+      "Requests for clean vector lines, heavy comic outlines or a cartoon look"
+    ]
+  },
+  "ja": {
+    "name": "表現的線描手帳",
+    "tagline": "写真を、ゆるい輪郭線と重ねたハッチング、広い余白の白黒ペン画にします。",
+    "look": "写真でいちばん目立つ主役を、素早く少し走り書きのようなペンの輪郭で描き直します。線には描き直しの跡が残り、影や形の折れ目は斜線、クロスハッチング、くしゃくしゃの線で濃淡をつけます。人物や動物、植物はゆるく曲線的に、テーブルや壁、床はまとまった直線のハッチングで骨組みを支えます。色は黒、グレー、生成りの紙色が中心で、背景は大きく省いて広い余白を残し、主役は中央でなくてもかまいません。文字は小さく控えめなタイトルや注記が少しだけで、言語は自由です。",
+    "traits": ["自由な輪郭", "斜線ハッチング", "クロスハッチング", "走り書きの線", "黒・灰・紙の白", "ネガティブスペース"],
+    "good": [
+      "輪郭がはっきりして明暗の差がある写真：横顔の人物、寝そべる犬、鉢植え、テーブルの急須",
+      "テーブルや壁の角、床、家具など構造線のある室内：窓辺の椅子、作業台、カフェの一角",
+      "スケッチブック風の本の表紙、記事の挿絵、白黒のアートポスターにしたい写真"
+    ],
+    "poor": [
+      "色の美しさが中心の写真：花畑、カラフルな照明、夕焼け（白黒ではほとんど残りません）",
+      "正確な再現が必要な画像：商品写真、証明写真、文字の多い看板",
+      "整ったベクター線、太い漫画線、カートゥーン風を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "표현적 선묘 저널",
+    "tagline": "사진을 느슨한 윤곽선과 겹친 해칭, 넓은 여백의 흑백 펜 드로잉으로 바꿉니다.",
+    "look": "사진에서 가장 알아보기 쉬운 주인공을 빠르고 조금 휘갈긴 듯한 펜 윤곽으로 다시 그립니다. 선에는 고쳐 그은 흔적이 남고, 그늘과 형태가 꺾이는 곳은 사선, 크로스 해칭, 엉킨 선으로 명암을 쌓습니다. 사람, 동물, 식물은 느슨하고 곡선적으로, 탁자와 벽, 바닥은 묶음으로 그은 직선 해칭이 뼈대를 잡습니다. 색은 검정, 회색, 미색 종이가 중심이며, 배경은 과감히 덜어 넓은 여백을 남기고 주인공이 꼭 가운데 있을 필요는 없습니다. 글자는 작고 가벼운 제목이나 주석 몇 줄뿐이고 언어는 자유입니다.",
+    "traits": ["자유로운 윤곽", "사선 해칭", "크로스 해칭", "휘갈긴 해칭", "검정·회색·종이색", "네거티브 스페이스"],
+    "good": [
+      "윤곽이 뚜렷하고 명암 차이가 분명한 사진: 사람의 옆모습, 엎드린 강아지, 화분, 탁자 위 찻주전자",
+      "탁자, 벽 모서리, 바닥, 가구 같은 구조선이 있는 실내: 창가 의자, 작업대, 카페 한쪽",
+      "스케치북 느낌의 책 표지, 글 삽화, 흑백 아트 포스터로 만들고 싶은 사진"
+    ],
+    "poor": [
+      "색이 매력의 대부분인 사진: 꽃밭, 컬러 조명, 노을(흑백으로는 거의 남지 않습니다)",
+      "정확한 재현이 필요한 이미지: 제품 사진, 증명사진, 글자가 많은 간판",
+      "깔끔한 벡터 선, 굵은 만화 선, 카툰 느낌을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دفتر الرسم الخطي التعبيري",
+    "tagline": "يحوّل الصورة إلى رسم بالقلم بالأبيض والأسود من خطوط محيطية حرة وتظليل متراكب وفراغ واسع.",
+    "look": "يُعاد رسم أوضح عنصر في الصورة بخطوط قلم سريعة فيها شيء من الخربشة وآثار تصحيح متكرر، وتُبنى الظلال وانعطافات الشكل بتظليل مائل ومتقاطع وخطوط متشابكة. يأخذ الأشخاص والحيوانات والنباتات خطوطاً حرة منحنية، بينما تُثبَّت الطاولات والجدران والأرضيات بمجموعات من الخطوط المستقيمة. الألوان أسود ورمادي وورق أبيض مائل إلى الكريمي، والخلفية مختصرة كثيراً لتترك فراغاً واسعاً، ولا يلزم أن يكون العنصر في الوسط. لا يظهر إلا قليل من العناوين أو الملاحظات الصغيرة الخفيفة، بأي لغة.",
+    "traits": ["خطوط محيطية حرة", "تظليل مائل", "تظليل متقاطع", "خربشة تظليلية", "أسود ورمادي وورق", "فراغ سلبي"],
+    "good": [
+      "صور فيها محيط واضح وتباين قوي بين الضوء والظل: شخص من الجانب، كلب مستلقٍ، نبتة في أصيص، إبريق شاي على طاولة",
+      "مشاهد داخلية فيها خطوط بنيوية مثل الطاولات وزوايا الجدران والأرضيات والأثاث: كرسي قرب نافذة، طاولة عمل، ركن في مقهى",
+      "صور تريدها غلاف كتاب بروح دفتر الرسم، أو رسماً لمقال، أو ملصقاً فنياً بالأبيض والأسود"
+    ],
+    "poor": [
+      "صور يقوم جمالها على اللون، مثل حقول الزهور والأضواء الملونة والغروب، فلا يبقى منها الكثير بالأبيض والأسود",
+      "صور تحتاج إلى تفاصيل دقيقة: صور المنتجات، صور الهوية، اللافتات المليئة بالنصوص",
+      "طلب خطوط متجهية نظيفة أو خطوط كوميكس سميكة أو مظهر كرتوني"
+    ]
+  }
+}
